@@ -1,15 +1,15 @@
 # Hi there, I'm Melih - aka Olymposrec 👋 
+I'm Melih From Turkey, and I do development. I'm interested in developing programs that make people's lives easier. 
 
 ## I'm a Student and Developer!!
 
 
 - 📚 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
 - 🎮 I love to play video games.
 - 🧱 I work with clay in my spare time. 
 - ✔️ I am trying to improve myself. 
 
-### Connect with me:
+#### Connect with me:
 
 
 <a href="https://www.linkedin.com/in/melihakkose/">
@@ -19,7 +19,7 @@
 
 
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
