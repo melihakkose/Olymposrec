@@ -1,4 +1,4 @@
-# Hi there, I'm Melih - aka Olymposrec 👋 
+# Hi there, I'm Melih 👋 
 I'm Melih From Turkey, and I do development. I'm interested in developing programs that make people's lives easier. 
 
 ## I'm a Student and Developer!!
